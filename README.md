@@ -43,6 +43,15 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 ![Screenshot 2024-03-31 094650](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/9d237119-70d6-4f99-9f74-df2c1b81a89e)
 
+![Screenshot 2024-03-14 172250](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/2949376c-1472-44dc-beb6-dc26b3888a83)
+
+
+![Screenshot 2024-03-14 111439](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/c4b81f2c-6c27-43ec-8704-d4ec706dd74e)
+
+
+![Screenshot 2024-03-14 175227](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/0d5a445b-7946-42af-a124-186bf9a065e7)
+
+
 
 
 
