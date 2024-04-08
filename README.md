@@ -3,7 +3,13 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-Motivated and detail-oriented individual with a passion for personal finance and programming. Seeking opportunities to apply my skills in developing a monthly budget calculator in Python. This calculator empowers users to efficiently manage their finances by inputting monthly income and expenses, providing a clear overview of total expenses and the remaining amount available for savings, investment, or discretionary spending. Through this project, I aim to simplify the budgeting process and promote financial literacy, while honing my programming abilities and problem-solving skills in Python.
+A File Integrity Monitor (FIM) is a security tool that constantly checks files and directories for unauthorized changes. It compares the current state of files to a known baseline, alerting users if any discrepancies are detected. FIMs are essential for maintaining data integrity and detecting potential security breaches in real-time.
+
+The File Integrity Monitor (FIM) offers users two primary functionalities: collecting a new baseline or initiating file monitoring with a saved baseline.
+
+For collecting a new baseline, the program calculates hash values from target files and stores the file|hash pairs in a baseline.txt file.
+
+When beginning file monitoring with a saved baseline, the program loads the file:hash pairs from the baseline.txt file. It then continuously monitors file integrity by looping through each target file, calculating the hash, and comparing it to the baseline. If a file's actual hash differs from what is recorded in the baseline, indicating a change or deletion, the user is promptly notified. This feature serves as a crucial safeguard against integrity compromises, alerting users to any unauthorized alterations to their files.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
