@@ -1,4 +1,4 @@
-# File-Integrity-Monitor
+# File Integrity Monitor
 
 ## Objective
 [Brief Objective - Remove this afterwards]
