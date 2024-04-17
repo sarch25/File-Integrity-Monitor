@@ -23,7 +23,7 @@ The two primary features of the PowerShell Script-created File Integrity Monitor
 - Hash calculation algorithm for file comparison
 - PowerShell scripting for FIM implementation
 
-## Steps
+## Images
 
 
 
