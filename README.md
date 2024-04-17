@@ -3,29 +3,25 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-A File Integrity Monitor (FIM) is a security tool that constantly checks files and directories for unauthorized changes. It compares the current state of files to a known baseline, alerting users if any discrepancies are detected. FIMs are essential for maintaining data integrity and detecting potential security breaches in real-time.
+One essential security tool for preserving data integrity and spotting possible security breaches is a File Integrity Monitor (FIM). It compares the current state of files and folders with a specified baseline, continuously scanning them for illegal changes. With this real-time monitoring feature, users may quickly spot any inconsistencies and take the necessary steps to reduce security threats.
 
-The File Integrity Monitor (FIM) offers users two primary functionalities: collecting a new baseline or initiating file monitoring with a saved baseline.
+The two primary features of the PowerShell Script-created File Integrity Monitor (FIM) are gathering a fresh baseline and starting file monitoring using a saved baseline. The tool computes hash values from target files and saves them in a baseline.txt file in order to gather a fresh baseline. The application loads the file:hash pairs from the baseline.txt file and starts file monitoring with a saved baseline, continuously checking the integrity of the file. Users are alerted right away in the event that any differences are found, such as deletions or modifications, offering a vital safeguard against integrity breaches.
 
-For collecting a new baseline, the program calculates hash values from target files and stores the file|hash pairs in a baseline.txt file.
-
-When beginning file monitoring with a saved baseline, the program loads the file:hash pairs from the baseline.txt file. It then continuously monitors file integrity by looping through each target file, calculating the hash, and comparing it to the baseline. If a file's actual hash differs from what is recorded in the baseline, indicating a change or deletion, the user is promptly notified. This feature serves as a crucial safeguard against integrity compromises, alerting users to any unauthorized alterations to their files.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- The importance of continuous file monitoring in maintaining data integrity and detecting security breaches
+- How to establish a baseline for file integrity monitoring and compare it against current file states
+- The significance of prompt notifications in responding to unauthorized file changes and preserving data integrity.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- File Integrity Monitor (FIM) software
+- Baseline.txt file for storing hash values
+- Hash calculation algorithm for file comparison
+- PowerShell scripting for FIM implementation
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
