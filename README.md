@@ -1,7 +1,7 @@
 # File Integrity Monitor
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 One essential security tool for preserving data integrity and spotting possible security breaches is a File Integrity Monitor (FIM). It compares the current state of files and folders with a specified baseline, continuously scanning them for illegal changes. With this real-time monitoring feature, users may quickly spot any inconsistencies and take the necessary steps to reduce security threats.
 
@@ -9,14 +9,14 @@ The two primary features of the PowerShell Script-created File Integrity Monitor
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+
 
 - The importance of continuous file monitoring in maintaining data integrity and detecting security breaches
 - How to establish a baseline for file integrity monitoring and compare it against current file states
 - The significance of prompt notifications in responding to unauthorized file changes and preserving data integrity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - File Integrity Monitor (FIM) software
 - Baseline.txt file for storing hash values
@@ -24,7 +24,7 @@ The two primary features of the PowerShell Script-created File Integrity Monitor
 - PowerShell scripting for FIM implementation
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 
 
 ![Screenshot 2024-03-31 095645](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/11b7a674-95a6-4924-bb14-56a7123f86c3)
