@@ -7,6 +7,7 @@ One essential security tool for preserving data integrity and spotting possible 
 
 The two primary features of the PowerShell Script-created File Integrity Monitor (FIM) are gathering a fresh baseline and starting file monitoring using a saved baseline. The tool computes hash values from target files and saves them in a baseline.txt file in order to gather a fresh baseline. The application loads the file:hash pairs from the baseline.txt file and starts file monitoring with a saved baseline, continuously checking the integrity of the file. Users are alerted right away in the event that any differences are found, such as deletions or modifications, offering a vital safeguard against integrity breaches.
 
+![Screenshot 2024-03-31 094650](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/9d237119-70d6-4f99-9f74-df2c1b81a89e)
 
 ### Skills Learned
 
