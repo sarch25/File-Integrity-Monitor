@@ -1,6 +1,6 @@
 # File Integrity Monitor
 
-## Objective
+## Summary
 
 
 One essential security tool for preserving data integrity and spotting possible security breaches is a File Integrity Monitor (FIM). It compares the current state of files and folders with a specified baseline, continuously scanning them for illegal changes. With this real-time monitoring feature, users may quickly spot any inconsistencies and take the necessary steps to reduce security threats.
