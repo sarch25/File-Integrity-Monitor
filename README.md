@@ -49,7 +49,7 @@ The two primary features of the PowerShell Script-created File Integrity Monitor
 
 
 
-
+#### If 'B' is selected, the program will start monitoring files and will notify if anything is changed.
 ![Screenshot 2024-03-31 095201](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/b80f85ff-b12d-4071-8b98-61be2efa28e4) ![Screenshot 2024-03-31 095250](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/c087d2c7-a4ef-4a32-8ad6-4423ee8fa6e2) ![Screenshot 2024-03-31 095423](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/420fb315-4cbf-453c-960a-582fcf14ac9c)
 
 
