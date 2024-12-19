@@ -26,16 +26,21 @@ The two primary features of the PowerShell Script-created File Integrity Monitor
 
 ## Images
 
+#### PowerShell script that provides the prompts and responses for the File Integrity Monitor, along with implementing the hashing algorithm.
+![Screenshot 2024-03-14 111439](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/c4b81f2c-6c27-43ec-8704-d4ec706dd74e)
 
+#
+#### The program initiates with a prompt, asking users, 'What would you like to do?' with 2 options as they begin their interaction.
 ![Screenshot 2024-03-31 094941](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/a3d57443-6b22-44de-bb3e-3dadcbe581eb)
 
-#### The program initiates with a prompt, asking users, 'What do you like to do?' with 2 options as they begin their interaction.
 #
-![Screenshot 2024-03-31 095645](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/11b7a674-95a6-4924-bb14-56a7123f86c3)
 #### If 'A' is selected, the program will create a hash to be used as a baseline for the file.
+![Screenshot 2024-03-31 095645](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/11b7a674-95a6-4924-bb14-56a7123f86c3)
+
 #
+#### PowerShell script that provides the prompts and responses for the File Integrity Monitor, along with implementing the hashing algorithm.
 ![Screenshot 2024-03-14 111439](https://github.com/sarch25/File-Integrity-Monitor/assets/130470960/c4b81f2c-6c27-43ec-8704-d4ec706dd74e)
-#### This is the PowerShell script that provides the prompts and responses for the File Integrity Monitor, along with implementing the hashing algorithm.
+
 #
 
 
